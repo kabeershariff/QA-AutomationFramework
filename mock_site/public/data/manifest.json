@@ -1,0 +1,16 @@
+[
+  {
+    "label": "big_company_cs_1000",
+    "url": "/data/big_company_cs_1000.jsonl",
+    "description": "Neutralized computer-science job descriptions for application automation testing.",
+    "format": "jsonl",
+    "count": 1000
+  },
+  {
+    "label": "qa_fake_jobs",
+    "url": "/data/qa_fake_jobs.jsonl",
+    "description": "Small deterministic job fixtures with salary, experience, and description fields.",
+    "format": "jsonl",
+    "count": 3
+  }
+]

@@ -1,0 +1,1 @@
+"""Automated test suites (pytest + Playwright)."""

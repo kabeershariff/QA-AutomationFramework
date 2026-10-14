@@ -1,0 +1,22 @@
+build.md
+qa_task.txt.txt
+.venv
+mock_site/node_modules
+mock_site/dist
+reports/artifacts
+.pytest_tmp
+.pytest_cache
+__pycache__
+*.pyc
+
+# OpenCode
+opencode.json
+opencode.jsonc
+.opencode/
+
+# Playwright MCP
+.playwright-mcp/
+.playwright/
+comparision_validation.md
+fixes.md
+issues.md
